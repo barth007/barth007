@@ -14,17 +14,20 @@
 ## :firecracker: Libraries/Frameworks
 - [x] Flask
 - [x] Django
+- [x] React
+- [x] Tailwind
+
+## 💾 Database
+- [x] Mysql
+- [x] postgres
+- [x] mongo db
+- [x] Redis (in-memory storage)  
 
         
 
 ## 🔭 I’m currently working on ...
-:atm: fintech application: This innovative platform aims to revolutionize financial interactions by amalgamating cutting-edge security measures with user-friendly features. From robust user authentication to seamless payment processing, my focus is on crafting a comprehensive solution that ensures both security and convenience for users. This fintech app endeavors to empower individuals by providing insightful financial tracking, analysis, and intuitive tools for managing their financial portfolios. Every line of code and every feature added is meticulously designed to create an unparalleled financial experience that's accessible and secure for all users.
-
-## 🌱 I’m currently learning ...
-- [ ] Nodejs
-- [ ] Expressjs
-- [ ] Reactjs
-- [ ] GIS :earth_africa:
+🏥: 
+I am building Hemotracka, a comprehensive blood bank management system designed to connect blood donors with blood bank facilities. The system aims to streamline the donation process by allowing donors to schedule and manage their donation appointments efficiently. Hemotracka not only facilitates this connection but also ensures donors receive compensation for their contributions. Additionally, it provides donors with notifications about their next expected donation dates, helping them stay informed and engaged in the blood donation process. This platform enhances the overall efficiency and effectiveness of blood donation operations, benefiting both donors and blood banks.
 
 ## 📫 How to reach me: ...
 - [LinkedIn](https://www.linkedin.com/in/bartholomew-bassey1)
