@@ -17,7 +17,7 @@
 <p align="left">🌱 I’m currently geeking out over DevOps—automating workflows, deploying with confidence, and scaling like a pro.</p>
 
 <p align="left">⚡ I speak the Gospel of <img src="https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=white&style=for-the-badge" height="25" alt="vim logo"  />
-  <img width="5" /></p>
+  <img width="5" align="center"/></p>
 
 ###
 
