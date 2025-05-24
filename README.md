@@ -126,5 +126,6 @@ Here are some ideas to get you started:
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/barthbassey1?style=social)](https://twitter.com/barthbassey1)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bartholomew-bassey1/)
-[![Email](https://img.shields.io/badge/-basseybartholomew237@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:basseybartholomew237@gmail.com)](mailto:basseybartholomew237@gmail.com
-###
+[![Email](https://img.shields.io/badge/-basseybartholomew237@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:basseybartholomew237@gmail.com)](mailto:basseybartholomew237@gmail.com)
+
+Checkout my [portfolio website]()🔗🔗
