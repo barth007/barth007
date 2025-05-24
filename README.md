@@ -78,11 +78,11 @@ Here are some ideas to get you started:
 <div align="left">
   <img src="https://img.shields.io/badge/C-Good-blue?style=for-the-badge&logo=C" height="30" alt="c logo"  />
   <img width="10" />
-  <img src="https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge&logo=Python" height="30" alt="python logo"  />
+  <img src="https://img.shields.io/badge/Python-Expert-green?style=for-the-badge&logo=Python" height="30" alt="python logo"  />
   <img width="10" />
-  <img src="https://img.shields.io/badge/JavaScript-Expert-blue?style=for-the-badge&logo=JavaScript" height="30" alt="javascript logo"  />
+  <img src="https://img.shields.io/badge/JavaScript-Expert-green?style=for-the-badge&logo=JavaScript" height="30" alt="javascript logo"  />
   <img width="10" />
-  <img src="https://img.shields.io/badge/TypeScript-Expert-blue?style=for-the-badge&logo=TypeScript" height="30" alt="typescript logo"  />
+  <img src="https://img.shields.io/badge/TypeScript-Expert-green?style=for-the-badge&logo=TypeScript" height="30" alt="typescript logo"  />
   <img width="10" />
 </div>
 
@@ -93,15 +93,15 @@ Here are some ideas to get you started:
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/badge/Express-Expert-blue?style=for-the-badge&logo=Express" height="30" alt="nodejs logo"  />
+  <img src="https://img.shields.io/badge/Express-Expert-green?style=for-the-badge&logo=Express" height="30" alt="nodejs logo"  />
   <img width="10" />
-  <img src="https://img.shields.io/badge/Django-Expert-blue?style=for-the-badge&logo=Django" height="30" alt="flask logo"  />
+  <img src="https://img.shields.io/badge/Django-Expert-green?style=for-the-badge&logo=Django" height="30" alt="flask logo"  />
   <img width="10" />
-  <img src="https://img.shields.io/badge/Flask-Expert-blue?style=for-the-badge&logo=Flask" height="30" alt="react logo"  />
+  <img src="https://img.shields.io/badge/Flask-Expert-green?style=for-the-badge&logo=Flask" height="30" alt="react logo"  />
   <img width="10" />
-  <img src="https://img.shields.io/badge/Next-Intermediate-blue?style=for-the-badge&logo=Next" height="30" alt="tailwindcss logo"  />
+  <img src="https://img.shields.io/badge/NextJS-intermediate-orange?style=for-the-badge&logo=NextJS" height="30" alt="tailwindcss logo"  />
   <img width="10" />
-  <img src="https://img.shields.io/badge/React-Intermediate-blue?style=for-the-badge&logo=React" height="30" alt="bootstrap logo"  />
+  <img src="https://img.shields.io/badge/ReactJS-intermediate-orange?style=for-the-badge&logo=ReactJS" height="30" alt="bootstrap logo"  />
   <img width="10" />
   <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" height="30" alt="pandas logo"  />
   <img width="10" />
