@@ -93,11 +93,11 @@ Here are some ideas to get you started:
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="30" alt="nodejs logo"  />
+  <img src="https://img.shields.io/badge/Express-Expert-blue?style=for-the-badge&logo=Express" height="30" alt="nodejs logo"  />
   <img width="10" />
-  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge" height="30" alt="flask logo"  />
+  <img src="https://img.shields.io/badge/Django-Expert-blue?style=for-the-badge&logo=Django" height="30" alt="flask logo"  />
   <img width="10" />
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="30" alt="react logo"  />
+  <img src="https://img.shields.io/badge/Flask-Expert-blue?style=for-the-badge&logo=Flask" height="30" alt="react logo"  />
   <img width="10" />
   <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="30" alt="tailwindcss logo"  />
   <img width="10" />
