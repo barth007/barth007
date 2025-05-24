@@ -25,7 +25,7 @@
 
 ###
 
-<h4 align="left">## :u6307: Programming Languages</h4>
+<h4 align="left"> :u6307: Programming Languages</h4>
 
 ###
 
@@ -88,7 +88,7 @@ Here are some ideas to get you started:
 
 ###
 
-<h4 align="left">## :firecracker: Frameworks & Libraries</h4>
+<h4 align="left"> :firecracker: Frameworks & Libraries</h4>
 
 ###
 
@@ -107,7 +107,18 @@ Here are some ideas to get you started:
 
 ###
 
-<h4 align="left">Tools</h4>
+<h4 align="left">💾 Cloud PlatForm</h4>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/badge/AWS-intermediate-orange?style=for-the-badge" height="30" alt="AWS logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/Azure-intermediate-orange?style=for-the-badge" height="30" alt="Azure logo"  />
+  <img width="5" />
+</div>
+
+<h4 align="left">🔧 Tools</h4>
 
 ###
 
