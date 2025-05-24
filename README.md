@@ -1,11 +1,36 @@
+<h1 align="center">Bartholomew Bassey</h1>
 
-## Welcome to Bartholomew Bassey's Profile! 👋
+###
 
-## About Me
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F718D4&random=false&width=550&height=100&lines=I'm+a+passionate+software+developer+;+with+a+love+for+creating+innovative+solutions;My+interests+range+from+backend+development;to+Gis+development+and+everything+in+between.)](https://git.io/typing-svg)
+<h4 align="center">Software Engineer</h4>
+
+###
+
+<h2 align="left">Introduction</h2>
+
+###
+<p align="left">I'm a Software Engineer and a Full Stack Developer who thrives on backend magic. While I can handle the frontend, I’m most at home building the engines that power scalable, high-performing applications. I love collaborating with teams and turning complex ideas into clean, working code.
+</p>
+<p align="left"> 🔭 I speak fluent JavaScript, TypeScript, and Python—yes, even before my morning coffee.
+</p>
+
+<p align="left">🌱 I’m currently geeking out over DevOps—automating workflows, deploying with confidence, and scaling like a pro.</p>
+
+<p align="left">⚡ I speak the Gospel of <img src="https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=white&style=for-the-badge" height="30" alt="vim logo"  />
+  <img width="5" /></p>
+
+###
+
+<h2 align="left">Technologies & Tools</h2>
+
+###
+
+<h4 align="left">Programming Languages</h4>
+
+###
 
 
-## :u6307: Languages
+<!-- ## :u6307: Languages
 - [x] Python, 
 - [x] JavaScript,
 - [x] sql,
@@ -26,8 +51,7 @@
         
 
 ## 🔭 I’m currently working on ...
-🏥: 
-I am building Hemotracka, a comprehensive blood bank management system designed to connect blood donors with blood bank facilities. The system aims to streamline the donation process by allowing donors to schedule and manage their donation appointments efficiently. Hemotracka not only facilitates this connection but also ensures donors receive compensation for their contributions. Additionally, it provides donors with notifications about their next expected donation dates, helping them stay informed and engaged in the blood donation process. This platform enhances the overall efficiency and effectiveness of blood donation operations, benefiting both donors and blood banks.
+
 
 ## 📫 How to reach me: ...
 - [LinkedIn](https://www.linkedin.com/in/bartholomew-bassey1)
@@ -47,3 +71,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+
