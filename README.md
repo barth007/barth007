@@ -16,8 +16,8 @@
 
 <p align="left">🌱 I’m currently geeking out over DevOps—automating workflows, deploying with confidence, and scaling like a pro.</p>
 
-<p align="left">⚡ I speak the Gospel of <img src="https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=white&style=for-the-badge" height="20" alt="vim logo"  />
-  <img width="5" /></p>
+<p align="left">⚡ I speak the Gospel of  <img src="https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=white&style=for-the-badge" height="25" alt="vim logo"  />
+  <img width="5" align="center"/></p>
 
 ###
 
@@ -25,7 +25,7 @@
 
 ###
 
-<h4 align="left">Programming Languages</h4>
+<h4 align="left">## :u6307: Programming Languages</h4>
 
 ###
 
@@ -88,7 +88,7 @@ Here are some ideas to get you started:
 
 ###
 
-<h4 align="left">Frameworks & Libraries</h4>
+<h4 align="left">## :firecracker: Frameworks & Libraries</h4>
 
 ###
 
@@ -107,7 +107,7 @@ Here are some ideas to get you started:
 
 ###
 
-<h4 align="left">DataBases</h4>
+<h4 align="left">Tools</h4>
 
 ###
 
