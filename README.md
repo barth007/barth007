@@ -123,13 +123,12 @@ Here are some ideas to get you started:
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="30" alt="mysql logo"  />
+  <img src="https://img.shields.io/badge/Linux-Expert-green?style=for-the-badge" height="30" alt="linux logo"  />
   <img width="5" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="30" alt="mongodb logo"  />
+   <img src="https://img.shields.io/badge/Docker-Expert-green?style=for-the-badge" height="30" alt="Docker logo"  />
   <img width="5" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=for-the-badge" height="30" alt="redis logo"  />
+  <img src="https://img.shields.io/badge/Kubernetes-intermediate-orange?style=for-the-badge" height="30" alt="kubernetes logo"  />
   <img width="5" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=for-the-badge" height="30" alt="sqlite logo"  />
 </div>
 
 
