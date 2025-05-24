@@ -99,9 +99,9 @@ Here are some ideas to get you started:
   <img width="10" />
   <img src="https://img.shields.io/badge/Flask-Expert-blue?style=for-the-badge&logo=Flask" height="30" alt="react logo"  />
   <img width="10" />
-  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="30" alt="tailwindcss logo"  />
+  <img src="https://img.shields.io/badge/Next-Intermediate-blue?style=for-the-badge&logo=Next" height="30" alt="tailwindcss logo"  />
   <img width="10" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" height="30" alt="bootstrap logo"  />
+  <img src="https://img.shields.io/badge/React-Intermediate-blue?style=for-the-badge&logo=React" height="30" alt="bootstrap logo"  />
   <img width="10" />
   <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" height="30" alt="pandas logo"  />
   <img width="10" />
