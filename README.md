@@ -101,7 +101,7 @@ Here are some ideas to get you started:
   <img width="10" />
   <img src="https://img.shields.io/badge/Next.JS-intermediate-orange?style=for-the-badge&logo=Next.JS" height="30" alt="tailwindcss logo"  />
   <img width="10" />
-  <img src="https://img.shields.io/badge/React.JS-intermediate-orange?style=for-the-badge&logo=React.JS" height="30" alt="bootstrap logo"  />
+  <img src="https://img.shields.io/badge/React-intermediate-orange?style=for-the-badge&logo=React" height="30" alt="bootstrap logo"  />
   <img width="10" />
 </div>
 
